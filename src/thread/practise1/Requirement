@@ -1,0 +1,2 @@
+Requirement: 100 threads deposit 1 dollar to bank account concurrently,
+then compare with synchronize mechanism and without synchronize mechanism.
